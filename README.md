@@ -1,2 +1,3 @@
 # drawing
-these are my drawings with coding 
+this is my amzing drawing 
+https://github.com/dgerv1/drawing/edit/master/README.md
